@@ -1,0 +1,22 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "Title": {"type": "string"},
+      "TaskId": {"type": "string"},
+      "JobRole": {"type": "string"},
+      "Department": {"type": "string"},
+      "StartDay": {"type": "integer"},
+      "DueDay": {"type": "integer"},
+      "RecipientRole": {"type": "string"},
+      "Description": {"type": "string"},
+      "ResourceUrl": {"type": "string"},
+      "Mandatory": {"type": "boolean"},
+      "Enabled": {"type": "boolean"},
+      "PlanVersion": {"type": "string"},
+      "SourceDocument": {"type": "string"}
+    },
+    "required": ["Title", "TaskId", "JobRole", "Department", "StartDay", "DueDay", "RecipientRole", "Description", "ResourceUrl", "Mandatory", "Enabled", "PlanVersion", "SourceDocument"]
+  }
+}

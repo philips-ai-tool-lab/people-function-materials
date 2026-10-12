@@ -1,0 +1,55 @@
+﻿Title,TaskId,JobRole,Department,StartDay,DueDay,RecipientRole,Description,ResourceUrl,Mandatory,Enabled,PlanVersion,SourceDocument
+完成入职欢迎与团队介绍,AS-D001-E01,Account Sales,Sales,1,1,Employee,完成入职欢迎与团队介绍。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+与带人经理进行第1次1:1,AS-D001-E02,Account Sales,Sales,1,1,Employee,与带人经理进行第1次1:1沟通，了解业务背景和岗位期待。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+认识Buddy,AS-D001-E03,Account Sales,Sales,1,1,Employee,认识Buddy。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+学习Global Onboarding Portal,AS-D001-E04,Account Sales,Sales,1,1,Employee,查看Global Onboarding Portal并完成学习。,https://share.philips.com/sites/Onboarding638/SitePages/Home_2.aspx,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+欢迎新销售并完成团队介绍,AS-D001-M01,Account Sales,Sales,1,1,Manager,欢迎新销售加入，完成团队介绍。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+与新人进行第1次1:1,AS-D001-M02,Account Sales,Sales,1,1,Manager,说明岗位期待和区域业务背景。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+指定Buddy,AS-D001-M03,Account Sales,Sales,1,1,Manager,为新员工指定Buddy。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+发送Announcement,AS-D001-M04,Account Sales,Sales,1,1,Manager,参考已有Announcement文档发送入职公告。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+确认Buddy指派,AS-D001-B01,Account Sales,Sales,1,1,Buddy,确认已被带人经理指定为Buddy。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+认识新人,AS-D001-B02,Account Sales,Sales,1,1,Buddy,主动联系并认识新人。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+确认基础系统可用,AS-D002-E01,Account Sales,Sales,2,2,Employee,与Buddy确认电脑、邮箱、Teams及各类内部系统可用。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+与经理进行第2次1:1,AS-D002-E02,Account Sales,Sales,2,2,Employee,对齐入职计划并获取关键联系人信息。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+与新人进行第2次1:1,AS-D002-M01,Account Sales,Sales,2,2,Manager,介绍并讨论入职计划。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+提供关键信息渠道,AS-D002-M02,Account Sales,Sales,2,2,Manager,帮助新人确认关键联系人和各类信息获取渠道。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+协助确认基础系统可用,AS-D002-B01,Account Sales,Sales,2,2,Buddy,协助新人确认电脑、邮箱、Teams及各类内部系统可用。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+申请日常工作系统权限,AS-D0025-E01,Account Sales,Sales,2,5,Employee,申请Concur、钉钉/美团商务招待、BCD差旅平台、Power App、工会福利、名片申请、小飞同学、IT Portal、HR Portal、Workday、掌上中意、Seismic等应用权限。,https://philips.service-now.com/hrportal?id=hrportal_index,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+了解日常销售支持流程,AS-D0025-E02,Account Sales,Sales,2,5,Employee,向Buddy了解差旅、报销、客户拜访、销售支持流程和常见问题。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+阅读合规与纪律文件,AS-D0025-E03,Account Sales,Sales,2,5,Employee,阅读并保存合规宝典、员工手册、纪律政策、技术文件管理流程等文件。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+与经理进行第3次1:1,AS-D0025-E04,Account Sales,Sales,2,5,Employee,了解DI/IGT销售角色使命、0-180天入职目标、试用期评估维度及学习路径。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+跟进系统与应用申请,AS-D0025-M01,Account Sales,Sales,2,5,Manager,跟进申请进展并确认新人了解用途、申请方式、审批路径和关键联系人。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+与新人进行第3次1:1,AS-D0025-M02,Account Sales,Sales,2,5,Manager,帮助新人了解销售角色使命、0-180天目标、评估维度和学习路径。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+确认第一周事项,AS-D0025-M03,Account Sales,Sales,2,5,Manager,确认第一周入职事项完成情况并及时答疑。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+介绍日常工作系统和流程,AS-D0025-B01,Account Sales,Sales,2,5,Buddy,介绍日常工作系统和流程并协助完成权限申请。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+分享合规与纪律文件,AS-D0025-B02,Account Sales,Sales,2,5,Buddy,向新人介绍并分享合规宝典、员工手册、纪律政策和技术文件管理流程。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+申请订单管理系统权限,AS-D00714-E01,Account Sales,Sales,7,14,Employee,申请CRM/cCRM、客户字典CD、DMS2.0、CP2.0、COS、E-commercial（如适用）权限。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+与经理进行第4次1:1,AS-D00714-E02,Account Sales,Sales,7,14,Employee,了解组织架构、区域业务重点、主要客户/渠道和跨职能协作方式。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成Cornerstone入职培训,AS-D00714-E03,Account Sales,Sales,7,14,Employee,了解Cornerstone学习平台并完成新员工入职相关培训。,https://philips.csod.com/samldefault.aspx,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+了解LinkedIn Learning,AS-D00714-E04,Account Sales,Sales,7,14,Employee,登录并了解LinkedIn Learning学习平台。,https://www.linkedin.com/checkpoint/enterprise/login/156424649?application=learning,False,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成基础合规学习,AS-D00714-E05,Account Sales,Sales,7,14,Employee,完成飞利浦总体经营原则与法律合规、T&E Company Billing Compliance、差旅及费用报销政策学习。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+与新人进行第4次1:1,AS-D00714-M01,Account Sales,Sales,7,14,Manager,帮助新人了解组织架构、区域业务重点、客户/渠道和跨职能协作方式。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+建立前三个月每周1:1机制,AS-D00714-M02,Account Sales,Sales,7,14,Manager,与新人建立前3个月每周1:1机制。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+推送并跟进必修课程,AS-D00714-M03,Account Sales,Sales,7,14,Manager,通过Lumen/Cornerstone推送或跟进必修合规、质量体系和销售流程课程。,https://philips.csod.com/samldefault.aspx,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+介绍订单管理系统,AS-D00714-B01,Account Sales,Sales,7,14,Buddy,介绍订单管理系统并协助新人完成权限申请。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+介绍学习平台和系统,AS-D00714-B02,Account Sales,Sales,7,14,Buddy,向新人介绍各类学习平台和系统。,https://philips.csod.com/samldefault.aspx,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成产品知识学习,AS-D01430-E01,Account Sales,Sales,14,30,Employee,完成飞驰加油站中的产品知识学习。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成质量管理SOP学习,AS-D01430-E02,Account Sales,Sales,14,30,Employee,学习渠道管理流程、招投标管理流程、OIT进单流程。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成基础销售工具学习,AS-D01430-E03,Account Sales,Sales,14,30,Employee,学习CRM/cCRM、客户字典CD、Seismic、销售手册和销售奖金政策。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成商机和订单推进学习,AS-D01430-E04,Account Sales,Sales,14,30,Employee,学习特价审批、CP2.0、第三方采购、进单、公章、标书/招投标和安装场地技术支持流程。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+参加Company Onboarding Workshop,AS-D01430-E05,Account Sales,Sales,14,30,Employee,理解飞利浦目标、战略、治理结构和Impact with Care文化。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成30天回顾,AS-D01430-E06,Account Sales,Sales,14,30,Employee,与经理确认学习记录、系统可用情况、岗位理解、目标和主要问题。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+跟进30天学习与实战进度,AS-D01430-M01,Account Sales,Sales,14,30,Manager,跟进产品知识、质量规范、销售流程和销售工具培训进度。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+安排关键联系人Connection,AS-D01430-M02,Account Sales,Sales,14,30,Manager,安排Sales Admin、CoP、PSM、ISC、COP等关键联系人Connection。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+确认销售目标与区域策略,AS-D01430-M03,Account Sales,Sales,14,30,Manager,确认销售目标、区域策略、重点客户/项目、Funnel Management & Forecast、招投标、特价和进单要求。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+进行经理30天回顾,AS-D01430-M04,Account Sales,Sales,14,30,Manager,总结前30天表现，识别认知短板，确认学习、系统、岗位理解和目标并答疑。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成Buddy 30天支持与回顾,AS-D01430-B01,Account Sales,Sales,14,30,Buddy,帮助新人理解产品、质量规范、销售流程和工具；完成30天回顾并答疑。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成产品与客户实战学习,AS-D03060-E01,Account Sales,Sales,30,60,Employee,深化产品知识，梳理商机、客户地图、渠道伙伴和重点项目背景。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成至少3次陪同拜访,AS-D03060-E02,Account Sales,Sales,30,60,Employee,在DSL/PS/Mentor陪同下完成至少3次客户拜访并记录需求、进展和复盘。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+参与区域运营实际流程,AS-D03060-E03,Account Sales,Sales,30,60,Employee,参与团队例会、项目讨论、报价/投标/进单等实际流程观察。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+安排实战辅导和陪访,AS-D03060-M01,Account Sales,Sales,30,60,Manager,安排PSM、DSL、Sales Admin及关键流程联系人提供实战辅导和陪访反馈。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成60天回顾,AS-D03060-M02,Account Sales,Sales,30,60,Manager,评估产品知识、客户互动、系统流程执行和跨职能协作进展，并调整后续接手范围。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成90天角色适配准备,AS-D090-E01,Account Sales,Sales,90,90,Employee,独立负责指定客户和项目，执行核心商务流程，完成复盘总结并收集利益相关方反馈。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+进行90天角色适配与绩效反馈,AS-D090-M01,Account Sales,Sales,90,90,Manager,评估角色适配，明确独立负责范围，组织利益相关方反馈并制定90-180天计划。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成180天试用期总结,AS-D180-E01,Account Sales,Sales,180,180,Employee,全面负责指定客户和目标，完成销售培训体系考核、协作网络建设和个人试用期总结。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx
+完成试用期综合评估,AS-D180-M01,Account Sales,Sales,180,180,Manager,汇总反馈，与新人进行正式发展对话，完成试用期综合评估并确认后续建议。,,True,True,AS-2026.1,Onboarding Plan for Account Sales.docx

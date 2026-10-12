@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-12",
+  "scope": "People Function onboarding content materials",
+  "fileCount": 7,
+  "files": [
+    {
+      "source": "General Guidance.pptx",
+      "path": "source-documents/General Guidance.pptx",
+      "bytes": 41003,
+      "sha256": "8fd7dc5d1c246ae073862c5c329cf3701962fdc5f2890459a87ff01c5bad39e1"
+    },
+    {
+      "source": "Onboarding Plan for Account Sales.docx",
+      "path": "source-documents/Onboarding Plan for Account Sales.docx",
+      "bytes": 41227,
+      "sha256": "7d12adafb61f54157595068ff88b2f8d0510885ebc41fca67c0b1f2672bb610a"
+    },
+    {
+      "source": "Resources and Links.docx",
+      "path": "source-documents/Resources and Links.docx",
+      "bytes": 24479,
+      "sha256": "c03a85baa49825d817ac09901b3b63081a76787159cd1d21cc836e8beaba669b"
+    },
+    {
+      "source": "agent/agent-instructions.txt",
+      "path": "agent/agent-instructions.txt",
+      "bytes": 2511,
+      "sha256": "38392a990e6e54d6588af8862cc3dd11699b00b619fc3aafd09beb149842e6e3"
+    },
+    {
+      "source": "agent/People-Function-Onboarding-Agent.md",
+      "path": "agent/People-Function-Onboarding-Agent.md",
+      "bytes": 4570,
+      "sha256": "093d2bf154c4114143a1d172fc77da5420d7be897d952e9a9026163c83abf9af"
+    },
+    {
+      "source": "formal-demo/account-sales-task-templates.json",
+      "path": "task-templates/account-sales-task-templates.json",
+      "bytes": 21477,
+      "sha256": "cd0b91ba4cbd4fdba6307430b3bf8426e29bc6d634c207eddf6ad1c3639359a2"
+    },
+    {
+      "source": "formal-demo/task-template-json-schema.json",
+      "path": "task-templates/task-template-json-schema.json",
+      "bytes": 787,
+      "sha256": "8b32a5a01c815004cbda237a0802d6d0768049c6d808edd82e0e29971fd6c51e"
+    }
+  ]
+}
